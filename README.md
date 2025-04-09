@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **Cloud, Docker, K8's, Jenkins**
 
 - 📫 How to reach me **charansatish08@gmail.com**
 
